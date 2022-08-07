@@ -1,0 +1,24 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "An app that can write, and delete notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewgettz/Note_Taker.git"
+  },
+  "author": "Andrew Gettz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewgettz/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/andrewgettz/Note_Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "mysql": "^2.18.0"
+  }
+}
